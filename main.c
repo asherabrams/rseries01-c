@@ -8,7 +8,9 @@ int main(int argc, char **argv)
 {
 	printf("hello R-series\n");
 int n;
-float r = 0.5;
+float m;
+	m = 2;
+float r = (1/m);
 float rTerm =1 ;
 float a = 1.0;
 float x;
