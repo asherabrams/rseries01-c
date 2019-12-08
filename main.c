@@ -14,7 +14,7 @@ float r = (1/q);
 float rTerm =1 ;
 float a = 1.0;
 float x;
-int limit = 20;
+int limit = 50;
 
 // The sum will quickly approach 1 + 1/(q-1).
 
